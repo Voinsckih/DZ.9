@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.9\task66\bin\Debug\net7.0\task66.exe
+A:\Git\REP2403\DZ.9\task66\bin\Debug\net7.0\task66.deps.json
+A:\Git\REP2403\DZ.9\task66\bin\Debug\net7.0\task66.runtimeconfig.json
+A:\Git\REP2403\DZ.9\task66\bin\Debug\net7.0\task66.dll
+A:\Git\REP2403\DZ.9\task66\bin\Debug\net7.0\task66.pdb
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.AssemblyInfo.cs
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.dll
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\refint\task66.dll
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.pdb
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\task66.genruntimeconfig.cache
+A:\Git\REP2403\DZ.9\task66\obj\Debug\net7.0\ref\task66.dll
